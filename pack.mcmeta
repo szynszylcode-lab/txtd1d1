@@ -1,0 +1,7 @@
+{
+  "pack": {
+    "pack_format": 46,
+    "supported_formats": [46, 75],
+    "description": "Piekielne Itemy FIX3 1.21.4-1.21.11"
+  }
+}
